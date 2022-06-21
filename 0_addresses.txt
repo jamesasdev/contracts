@@ -1,0 +1,31 @@
+joe-factory: https://snowtrace.io/address/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10#readContract
+dev fund 2: 0x76498eE840cd45C5C9BAb797107ee7f0bfe038E1
+depisit fee wallet: 0xc45F1247128cc8375B6Fe291469a5e5353FfE4BE
+
+---------------------main------------------------------------
+dev: 0x73566f6F41D93E479f8aDAA364b096fAF3B0781f
+tax_rate: 0
+tax_collectorAddress: 0x73566f6F41D93E479f8aDAA364b096fAF3B0781f
+glad:		0xd09638905F4803566B3975c82C7609A00f537Be8
+gladshare:		0xcdadce198eB5Ba039E0235A7BeC95979AfE5128E
+gladbond:		0xFAF8766A1219dCEA00ad5b9b13ceE3728dAeBEB1
+genesis:	0xaeB296E425aC953EdDC800C5145f7Fa7152E59d3
+wavax: 0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7
+usdc:  0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664
+
+glad-avax:	0x10254c2C9D56830DCC4a7E89b2d258903c213443
+gladshare-avax:	0x8E5f549318f5dBA8685bB1ae90D5A61803e8D155
+gladsharereward:	0xCf1573E32b89f01292A93Dc7cFcCC8eFEb899A29
+oracle:		0x44660447ABdd6BDf8Ecc8140e0bdde27320D6c86
+boardroom:	0x02B8995Ccfb4f9CF83CE5C58423570355bA34fd2
+treasury:	0x64615C8cBf9D7AADBD28D47D4b3f7CBe81e69936
+
+genesis start time:
+1647054000
+
+gladshareRewardpool start time:
+1647226800
+
+boardroom start time
+1647313200
+--------------------------------------------------------------
